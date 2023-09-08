@@ -25,7 +25,7 @@ I am a full-stack developer and Navy veteran with expertise in both front-end an
 [![](https://visitcount.itsvg.in/api?id=coleausher&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/ColeaUsher?country.x=US&locale.x=en_US) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/coleusher97?country.x=US&locale.x=en_US) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
