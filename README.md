@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer and Navy veteran with expertise in both front-end and back-end technologies, committed to delivering you innovative software solutions.
+I am a full-stack developer and Navy veteran with experience in both front-end and back-end technologies, committed to delivering you innovative software solutions.
 
 
 ## 🌐 Socials:
